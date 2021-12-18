@@ -1,0 +1,32 @@
+
+.main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.btn-blue {
+    margin-bottom: 20px;
+}
+
+.row-main:nth-child(even) {
+    background-color: #eee;
+}
+
+.col-main {
+    border: 1px solid #111;
+    border-top: 0;
+    padding: 8px;
+}
+
+.row-main {
+    border-top: 1px solid #111
+}
+
+.row-main--first {
+    font-weight: 700;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(61, 125, 245);
+}
